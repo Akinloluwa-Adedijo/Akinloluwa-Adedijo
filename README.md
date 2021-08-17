@@ -5,7 +5,9 @@ I’m a current third year student at Simon Fraser University studying Geographi
 
 I’m looking to collaborate on anything that sounds interesting
 
-Email: adedijoakinloluwa@gmail.com
+Software, Web and Game Development: adedijoakinloluwa@gmail.com
+
+Graphic Design: dsignak21@gmail.com
 
 <!---
 Akinloluwa-Adedijo/Akinloluwa-Adedijo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
